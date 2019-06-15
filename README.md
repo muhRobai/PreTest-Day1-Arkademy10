@@ -6,7 +6,8 @@ Untuk menjalankan program diatas berikut alat yang dibutuhkan.
 3. Browser -> https://www.mozilla.org/id/firefox/new/
 
 Berikut adalah cara menjalankan program tersebut.
-1. donload file.
+1. download file.
 2. pindahkan pada htdocs pada c/xampp/htdocs
 3. nyalakan xampp.
 4. buka browser ketikan localhost/NAMA FOLDER PROGRAM KALIAN.
+5. pilih program mana yang aka di running.

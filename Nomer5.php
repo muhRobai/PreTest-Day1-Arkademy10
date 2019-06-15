@@ -20,8 +20,7 @@ function Kata($kalimat,$kata){
             }
 
         }
-
-
+        
         for ($i = 0; $i <= ($jml_kata - $jml_cari); $i++) {
             $kata = "";
             for ($j = $i; $j < ($i + $jml_cari); $j++) {

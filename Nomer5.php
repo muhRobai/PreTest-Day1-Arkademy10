@@ -16,7 +16,7 @@ function Kata($kalimat,$kata){
                 $kata .= $arr_kata1[$j];
             }
             if ($kata == $cari) {
-                $jumlah_kata += 1;
+                $jumlah_kata++;
             }
 
         }
@@ -27,7 +27,7 @@ function Kata($kalimat,$kata){
                 $kata .= $arr_kata2[$j];
             }
             if ($kata == $cari) {
-                $jumlah_kata += 1;
+                $jumlah_kata++;
             }
 
         }
